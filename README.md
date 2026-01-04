@@ -34,5 +34,3 @@ Future Enhancements:
 - Improved accuracy using machine learning or deep learning models  
 - Multi-face detection and support for multiple drivers  
 
-Author: Akshay S  
-AI/ML Enthusiast | Computer Vision Developer
